@@ -6,6 +6,7 @@ Descripción:
 Desarrollo de una solución integral de Business Intelligence para analizar el perfil demográfico y comportamiento de compra de una tienda de electrónica durante 2023, con segmentación de clientes y validación de hipótesis de negocio. 
 
 Procedimientos realizados:
+
 •Procesamiento y preparación de datos con Power Query desde Google Sheets: limpieza, estandarización de tipos de datos, tratamiento de nulos y eliminación de duplicados.  
 •Modelado y normalización de bases de datos relacionales en el dataset: optimización de la tabla de hechos, definición de claves foráneas y relaciones 1:N para asegurar la integridad del modelo.  
 •Diseño y desarrollo de un modelo de segmentación de clientes RFM (Recencia, Frecuencia, Monto) utilizando funciones DAX avanzadas (CALCULATE, FILTER, condicionales lógicos).  
