@@ -1,5 +1,6 @@
 # DataAnalitycsFinalProject
 Proyecto final del curso de Data Analitycs 2025: Customer Analytics & Segmentación RFM – Tienda TECH
+
 Stack de Tecnologías: Power BI, Power Query, DAX, Google Sheets, Modelado Relacional.
 
 Descripción: 
